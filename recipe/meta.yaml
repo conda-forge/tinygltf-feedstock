@@ -1,5 +1,5 @@
 {% set name = "tinygltf" %}
-{% set version = "2.5.0" %}
+{% set version = "2.8.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/syoyo/{{ name }}/archive/v{{ version }}.tar.gz
-  sha256: 5d85bd556b60b1b69527189293cfa4902957d67fabb8582b6532f23a5ef27ec1
+  sha256: 29ca18191062124bf318cc99d9dc51071f6ac6f14ab1d15d10702ec26fac660e
 
 build:
   number: 0
@@ -30,7 +30,7 @@ about:
   license: MIT
   license_family: MIT
   license_file: LICENSE
-  summary: 'Header only C++11 tiny glTF 2.0 library.'
+  summary: Header only C++11 tiny glTF 2.0 library.
   description: |
     TinyGLTF is a header only C++11 glTF 2.0 https://github.com/KhronosGroup/glTF library.
   dev_url: https://github.com/syoyo/{{ name }}
