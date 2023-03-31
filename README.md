@@ -1,11 +1,11 @@
-About tinygltf
-==============
+About tinygltf-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tinygltf-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/syoyo/tinygltf
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tinygltf-feedstock/blob/main/LICENSE.txt)
 
 Summary: Header only C++11 tiny glTF 2.0 library.
 
