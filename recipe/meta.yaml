@@ -1,5 +1,5 @@
 {% set name = "tinygltf" %}
-{% set version = "2.8.7" %}
+{% set version = "2.8.8" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/syoyo/{{ name }}/archive/v{{ version }}.tar.gz
-  sha256: 308b1d019cdba054a456e102300a003b444273076d5edff8c98f76957a24a4b1
+  sha256: 050f9ff8dea423b92c96f90e335abc086b2d9f90c17ae86258642ee9a73e210f
 
 build:
   number: 0
