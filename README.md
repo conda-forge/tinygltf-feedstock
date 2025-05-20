@@ -149,4 +149,5 @@ Feedstock Maintainers
 =====================
 
 * [@benjaminrwilson](https://github.com/benjaminrwilson/)
+* [@krande](https://github.com/krande/)
 
